@@ -1,17 +1,12 @@
 # wave
-Javascript Wave animation
+Waves animation with Javascript + CSS3
 
 
 [![alt text](https://cmiscm.github.io/wave/screenshot/wave.jpg)](http://cmiscm.github.com/wave/)
 
  
 ### Example
-[http://cmiscm.github.com/wave/](http://cmiscm.github.com/wave/)
-
-
-### Questions
-If you have any questions, please feel free to ask on [my blog](http://blog.cmiscm.com/?p=5452)
-
+[https://cesarnog.github.io/waves-animation/](https://cesarnog.github.io/waves-animation/)
 
 ### License
 Copyright (c) 2017 Jongmin Kim (http://cmiscm.com) 
